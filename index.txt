@@ -1,1 +1,2 @@
 Hello git, today I learn how to push code using terminal. And now we do how to pull and commit through terminal.
+changes done by using website.
